@@ -7,14 +7,6 @@
 - 🌱 I’m currently learning electron, express and docker
 
 ---
-### Social
-[<img align="left" alt="Michael's | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Michael's | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-<!--
-    [<img align="left" alt="Michael's | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
--->
-
----
 ### Languages, Frameworks and Tools
 
 <img align="left" alt="PhpStorm" width="26px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/webide.ico_HA9tBL0.png" />
@@ -38,6 +30,13 @@
 <br />
 <br />
 
+---
+### Social
+[<img align="left" alt="Michael's | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Michael's | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+<!--
+    [<img align="left" alt="Michael's | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
+-->
 
 [linkedin]: https://www.linkedin.com/in/michael-sievenpiper-b1b441a1/
 [twitter]: https://twitter.com/mmsievenpiper

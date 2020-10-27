@@ -3,7 +3,7 @@
 - 🏢 Currently working as a full stack developer in the medical industry
 - 🎓 1st class Software engineer graduate 2017
 - 🎉 Part of the winning team for the [TMForum Open Hack Nice 2017](https://www.tmforum.org/open-hack/) 
-- 🔭 I’m currently working on an [<img align="left" alt="PhpStorm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />](https://electronjs.org) realtime chat app
+- 🔭 I’m currently working on an [<img alt="PhpStorm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />](https://electronjs.org) realtime chat app
 - 🌱 I’m currently learning electron, express and docker
 
 ---

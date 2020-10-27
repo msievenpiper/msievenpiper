@@ -38,6 +38,15 @@
     [<img align="left" alt="Michael's | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 -->
 
+---
+
+### Stats
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="Michael's GitHub Stats" src="https://github-readme-stats.msievenpiper.vercel.app/api?username=msievenpiper&show_icons=true&hide_border=true&count_private=true" />
+</details>
+
+
 [linkedin]: https://www.linkedin.com/in/michael-sievenpiper-b1b441a1/
 [twitter]: https://twitter.com/mmsievenpiper
 [twitch]: https://www.twitch.tv/superslothgames/

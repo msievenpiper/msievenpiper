@@ -3,11 +3,11 @@
 - 🏢 Currently working as a full stack developer in the medical industry
 - 🎓 1st class Software engineer graduate 2017
 - 🎉 Part of the winning team for the [TMForum Open Hack Nice 2017](https://www.tmforum.org/open-hack/) 
-- 🔭 I’m currently working on an [<img alt="PhpStorm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />](https://electronjs.org) realtime chat app
+- 🔭 I’m currently working on an [<img alt="Electron" width="14px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" />](https://electronjs.org) realtime chat app
 - 🌱 I’m currently learning electron, express and docker
 
 ---
-### Social Channels
+### Social
 [<img align="left" alt="Michael's | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Michael's | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <!--
@@ -15,7 +15,7 @@
 -->
 
 ---
-### Languages, Frameworks and Tools:
+### Languages, Frameworks and Tools
 
 <img align="left" alt="PhpStorm" width="26px" src="https://dashboard.snapcraft.io/site_media/appmedia/2017/11/webide.ico_HA9tBL0.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"

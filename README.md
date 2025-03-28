@@ -1,9 +1,8 @@
 ### Hi there 👋 Take a look around
 
-- 🏢 Currently working as a full stack developer in the medical industry
-- 🎓 1st class Software engineer graduate 2017
+- 🏢 Currently working as a full stack developer in the tech industry
+- 🎓 Senior FE software engineer
 - 🎉 Part of the winning team for the [TMForum Open Hack Nice 2017](https://www.tmforum.org/open-hack/) 
-- 📚 Looking to learn reactjs, android app development and docker
 
 ---
 
@@ -48,4 +47,3 @@
 
 [linkedin]: https://www.linkedin.com/in/michael-sievenpiper-b1b441a1/
 [twitter]: https://twitter.com/mmsievenpiper
-[twitch]: https://www.twitch.tv/superslothgames/
